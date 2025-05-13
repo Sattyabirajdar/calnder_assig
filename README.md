@@ -23,19 +23,19 @@ node index.js
 
 ### Homepage View
 
-![Homepage Screenshot](https://github.com/yonisantiago/calendary-app/raw/main/public/homepage-screenshot.png)
+![Homepage Screenshot](screenshorts/homepage.png)
 
 *Description: The homepage features an overview of upcoming events, quick access to the calendar, and user-friendly navigation.*
 
 ### Calendar Page
 
-![Calendar Screenshot](https://github.com/yonisantiago/calendary-app/raw/main/public/calendar-screenshot.png)
+![Calendar Screenshot](screenshorts/viewpage.png)
 
 *Description: The calendar page displays events in a monthly view, with options to add, edit, or delete events.*
 
 ### Detailed Graph Page
 
-![Calendar Screenshot](https://github.com/yonisantiago/calendary-app/raw/main/public/calendar-screenshot.png)
+![Calendar Screenshot](screenshorts/trendpage.png)
 
 *Description: The calendar page displays events in a monthly view, with options to add, edit, or delete events.*
 
