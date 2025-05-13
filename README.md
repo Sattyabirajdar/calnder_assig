@@ -2,7 +2,21 @@
 
 A full-stack calendar application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to manage their events efficiently.
 
----
+## Installation & Setup  
+To get started, clone the repo and install dependencies:  
+```bash
+git clone https://github.com/your-repo/SIH.git
+cd SIH
+```
+Install dependencies and start servers
+```bash
+cd frontend
+npm install
+npm run dev
+
+cd ../backend
+npm install
+node index.js
 
 ## Screenshots
 
@@ -23,8 +37,6 @@ A full-stack calendar application built using the MERN stack (MongoDB, Express.j
 ![Calendar Screenshot](https://github.com/yonisantiago/calendary-app/raw/main/public/calendar-screenshot.png)
 
 *Description: The calendar page displays events in a monthly view, with options to add, edit, or delete events.*
-
----
 
 ## 🛠️ Technologies Used
 
